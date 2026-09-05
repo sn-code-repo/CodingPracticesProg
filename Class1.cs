@@ -22,7 +22,7 @@ namespace CodingProg
             Console.ReadLine();
         }
     }
-    
+     
     class Class1
     {
     }
