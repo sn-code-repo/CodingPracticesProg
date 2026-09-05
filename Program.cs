@@ -20,7 +20,11 @@ namespace CodingProg
             //ReverseWordOrder();
             //int[] a = new int[] { 3, 4, 5, 4, 3 };
             //RemoveDuplicateArr(5, a);
-            RemoveDuplicateArrUsingHashset();
+            //RemoveDuplicateArrUsingHashset();
+            //A b = new A();
+            //b.Show();
+            OnlyIntegerSumInGivenString onlyIntegerSumInGivenString = new OnlyIntegerSumInGivenString();
+            onlyIntegerSumInGivenString.Sum("2fg5s2!3");
         }
         static void ReverseString(string str)
         {
