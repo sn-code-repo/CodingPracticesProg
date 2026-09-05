@@ -25,5 +25,12 @@ namespace CodingProg
      
     class Class1
     {
+        public void Show()
+        {
+            A a = new A();
+            a.Show();
+            B b = new B();
+            b.Show();
+        }
     }
 }
