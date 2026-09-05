@@ -33,4 +33,12 @@ namespace CodingProg
             b.Show();
         }
     }
+    public class D
+    {
+        //static void Main(string[] args)
+        //{
+        //    Class1 c = new Class1();
+        //    c.Show();
+        //}
+    }
 }
