@@ -32,5 +32,12 @@ namespace CodingProg
             B b = new B();
             b.Show();
         }
-    }    
+    }
+    public class p
+    {
+        public void Show()
+        {
+            Console.WriteLine("Hello: Program Class!"); Console.ReadLine();
+        }
+    }
 }
